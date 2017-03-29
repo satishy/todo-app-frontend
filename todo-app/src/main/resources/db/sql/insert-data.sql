@@ -1,0 +1,3 @@
+INSERT INTO Task(title,description,taskStatus,priority,assignedUser) VALUES ('Install Local Environment','B123456','INPROGRESS','CRITICAL','satish');
+INSERT INTO Task(title,description,taskStatus,priority,assignedUser) VALUES ('Install Dev Environment','B5245254','INPROGRESS','CRITICAL','paul');
+INSERT INTO Task(title,description,taskStatus,priority,assignedUser) VALUES ('Install Test Environment','B5425245','INPROGRESS','CRITICAL','luke');

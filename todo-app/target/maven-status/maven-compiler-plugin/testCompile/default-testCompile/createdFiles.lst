@@ -1,0 +1,4 @@
+com/camellia/systems/todo/AppTest.class
+com/camellia/systems/todo/controller/TodoAppControllerTest.class
+com/camellia/systems/todo/dao/TodoTaskDaoTest.class
+com/camellia/systems/todo/service/TaskServiceTest.class
